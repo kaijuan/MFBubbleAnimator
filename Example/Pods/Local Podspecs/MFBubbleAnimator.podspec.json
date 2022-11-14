@@ -1,0 +1,22 @@
+{
+  "name": "MFBubbleAnimator",
+  "version": "0.1.0",
+  "summary": "A short description of MFBubbleAnimator.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/XiaoDuo/MFBubbleAnimator",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "XiaoDuo": "1165004013@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/XiaoDuo/MFBubbleAnimator.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "MFBubbleAnimator/Classes/**/*"
+}

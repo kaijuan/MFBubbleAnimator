@@ -1,0 +1,6 @@
+framework module MFBubbleAnimator {
+  umbrella header "MFBubbleAnimator-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+We always use this tool to show animate anywhere we click zan event.
                        DESC
 
   s.homepage         = 'https://github.com/XiaoDuo/MFBubbleAnimator'
@@ -32,9 +32,9 @@ TODO: Add long description of the pod here.
 
   s.source_files = 'MFBubbleAnimator/Classes/**/*'
   
-  # s.resource_bundles = {
-  #   'MFBubbleAnimator' => ['MFBubbleAnimator/Assets/*.png']
-  # }
+  s.resource_bundles = {
+    'MFBubbleAnimator' => ['MFBubbleAnimator/Assets/*.png']
+  }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
