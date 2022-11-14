@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 We always use this tool to show animate anywhere we click zan event.
                        DESC
 
-  s.homepage         = 'https://github.com/XiaoDuo/MFBubbleAnimator'
+  s.homepage         = 'https://github.com/kaijuan/MFBubbleAnimator'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'XiaoDuo' => '1165004013@qq.com' }
-  s.source           = { :git => 'https://github.com/XiaoDuo/MFBubbleAnimator.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/kaijuan/MFBubbleAnimator.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '10.0'
