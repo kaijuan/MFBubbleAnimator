@@ -32,9 +32,9 @@ We always use this tool to show animate anywhere we click zan event.
 
   s.source_files = 'MFBubbleAnimator/Classes/**/*'
   
-  s.resource_bundles = {
-    'MFBubbleAnimator' => ['MFBubbleAnimator/Assets/*.png']
-  }
+  #s.resource_bundles = {
+  #  'MFBubbleAnimator' => ['MFBubbleAnimator/Assets/*.png']
+  #}
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
